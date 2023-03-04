@@ -1,2 +1,4 @@
 # ReactReadingList
 Dynamic book list that allows end users to maintain a list of their favorite books. (Powered by MERN)
+
+This app allows end users to add a new book entry (title, author, synopsis) to a NoSQL database via a form (left side of the landing page).   Once submitted via the form, the book entry instantly renders to a list (left side of the landing page).  Every list item includes a title and author, as well as a delete button (“X”) that allows the user to delete the entry from the list/db.  Also, each item on the list is clickable, which opens up its designated page which includes the synopsis. 
